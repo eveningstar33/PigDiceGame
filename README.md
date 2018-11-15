@@ -1,7 +1,7 @@
 # PigDiceGame
 Simple game for 2 players written on Vanilla Javascript
 
-Link here -> <a href="http://usdgadget.com/pig-dice-game.html">Pig Dice Game</a>
+Link here -> <a href="http://usdgadget.com/pig-dice-game.html" target="_blank">Pig Dice Game</a>
 
 GAME RULES:
 - The game has 2 players, playing in rounds
